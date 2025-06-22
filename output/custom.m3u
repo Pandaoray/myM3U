@@ -113,10 +113,6 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
-#EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="News",A2 CNN (720p)
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News (720p)
