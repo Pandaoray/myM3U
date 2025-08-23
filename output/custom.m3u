@@ -3,6 +3,8 @@
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn" tvg-logo="https://i.imgur.com/UR9vEIN.png" group-title="Undefined",Bread TV面包台 (720p)
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="General",BTV World (1080p)
+https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="General",CCTV1 (1080p)
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="Business",CCTV2 (576p)
